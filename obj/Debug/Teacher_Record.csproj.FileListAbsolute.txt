@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\bin\Debug\Teacher_Record.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\bin\Debug\Teacher_Record.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\bin\Debug\Teacher_Record.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\obj\Debug\Teacher_Record.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\obj\Debug\Teacher_Record.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\obj\Debug\Teacher_Record.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\Teacher_Record\Teacher_Record\obj\Debug\Teacher_Record.pdb
